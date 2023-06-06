@@ -1,2 +1,3 @@
 # sales-control-system
-sales control system program made in c
+sales control system program made in c#
+
